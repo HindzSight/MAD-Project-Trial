@@ -18,15 +18,3 @@ Contribution Guidelines
 Issues :
     1.   Before working on a new feature or bug fix, check the existing issues to see if someone else has already reported it or if there is an ongoing discussion related to it. If not, you can create a new issue to track the problem or feature request.
     2.   When creating a new issue, provide a clear and concise description of the problem or feature, including steps to reproduce (if applicable), expected behavior, and any relevant system details.
-
-Branching :
-    1.   Create a new branch for each contribution to keep your changes isolated and easily manageable. Use a descriptive name for your branch that reflects the purpose of your contribution.
-    2.   Make sure to work on your branch and avoid making changes directly to the main branch.
-
-Code and Commit Guidelines:
-    1.   Follow the existing code style and conventions used in the project.
-    2.   Write clean, readable, and well-documented code.
-    3.   Make commits that are focused and atomic, addressing a single change or fix. Write clear and descriptive commit messages that explain the purpose of your changes.
-
-Pull Requests :
-
