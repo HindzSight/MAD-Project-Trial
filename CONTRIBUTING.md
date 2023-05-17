@@ -12,7 +12,7 @@ Prerequisites:
      3.  Android Studio IDE installed on your local machine.
      4.  A GitHub account for forking the repository and submitting pull requests.
 
-Contribution Guidelines
+Contribution Guidelines :
    We encourage you to contribute to ScreenGallery App by following these guidelines:
 
 Issues :
