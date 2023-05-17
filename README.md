@@ -3,3 +3,12 @@ ScreenGallery is a user-friendly wallpaper app designed to help smartphone users
 Key Features:
 
 1. Extensive Wallpaper Collection: ScreenGallery offers a vast collection of wallpapers carefully curated to cater to various tastes and preferences. The app includes a wide range of categories, such as nature, abstract, animals, architecture, landscapes, and more. Users can browse through the collection to find wallpapers that resonate with their style.
+
+2. High-Quality Images: The wallpapers in ScreenGallery are of high quality, ensuring crisp and vibrant visuals that enhance the device's display. The app ensures that the wallpapers are optimized for different screen resolutions and sizes, delivering an optimal viewing experience on various devices.
+
+3. User-Friendly Interface: The app features a clean and intuitive user interface, making it easy for users to navigate through the wallpaper collection. The interface allows for smooth scrolling and ensuring that users can quickly find wallpapers that match their preferences.
+
+4. Easy Set-Up: ScreenGallery simplifies the process of setting wallpapers on the device. With just a few taps, users can select and apply wallpapers as their device's background. The app also provides options to set wallpapers for the home screen and lock screen.
+
+Overall, ScreenGallery strives to offer a seamless and enjoyable wallpaper experience, providing users with a diverse range of high-quality wallpapers and customization options to personalize their device's aesthetic.
+
