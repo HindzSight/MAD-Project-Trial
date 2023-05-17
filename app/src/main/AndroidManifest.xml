@@ -4,7 +4,9 @@
 
     <!-- Internet Permission -->
     <uses-permission android:name="android.permission.INTERNET" />
-
+   
+    <!-- Added Permission to set Wallpaper -->
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
     <application
         android:allowBackup="true"
