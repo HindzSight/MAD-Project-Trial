@@ -61,12 +61,11 @@ public class WallpaperActivity extends AppCompatActivity {
         });
 
         fab_wallpaper.setOnClickListener(new View.OnClickListener() {
-            // wallpaper settings.
             @Override
             public void onClick(View v) {
                 WallpaperManager wallpaperManager = WallpaperManager.getInstance(WallpaperActivity.this);
                 Bitmap bitmap = ((BitmapDrawable) imageView_wallpaper.getDrawable()).getBitmap();
-                // try and catch for setting the wallpaper.
+
                 try {
                     wallpaperManager.setBitmap(bitmap);
                     Toast.makeText(WallpaperActivity.this, "Wallpaper Set!", Toast.LENGTH_SHORT).show();
