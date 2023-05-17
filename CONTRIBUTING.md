@@ -6,7 +6,6 @@ Welcome to ScreenGallery App! We appreciate your interest in contributing to our
 Prerequisites:
  
    To contribute to the ScreenGallery App, you will need:
-
      1.  Basic knowledge of Android app development using Java.
      2.  Familiarity with Git and GitHub for version control and collaboration.
      3.  Android Studio IDE installed on your local machine.
